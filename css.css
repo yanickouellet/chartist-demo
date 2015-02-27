@@ -1,0 +1,16 @@
+#app .ct-series-a .ct-line {
+  stroke: #002B46;
+  stroke-dasharray: 5,5;
+}
+
+#app .ct-series-a .ct-area {
+  fill: #1EAEEB;
+}
+
+#app .ct-series-b .ct-line {
+  stroke: #771396;
+}
+
+#app .ct-series-c .ct-line {
+  stroke: #1EAEEB;
+}

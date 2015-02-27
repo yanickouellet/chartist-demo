@@ -1,0 +1,18 @@
+{
+  "name": "chartist",
+  "version": "0.0.0",
+  "authors": [
+    "Yanick Ouellet <yanickouellet555@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist": "~0.7.2"
+  }
+}
